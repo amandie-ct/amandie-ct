@@ -1,6 +1,6 @@
 ### Hello there! :octocat:
 
-I'm Amanda, a bachelor in Psychology with a MSc in Psychobiology :brain:, and I'm studying to become a self-taught full stack web developer :computer:
+I am Amanda, a bachelor in Psychology with a MSc in Psychobiology :brain:, and I'm studying to become a self-taught full stack web developer :computer:
 
 Currently, I am participating of Hiring Coders training program, provided by Gama Academy and sponsored by VTEX, AWS and many other companies!
 
