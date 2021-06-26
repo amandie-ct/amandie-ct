@@ -2,7 +2,7 @@
 
 I am Amanda, a bachelor in Psychology with a MSc in Psychobiology :brain:, and I'm studying to become a self-taught full stack web developer :computer:
 
-Currently, I am participating of Hiring Coders training program, provided by Gama Academy and sponsored by VTEX, AWS and many other companies!
+Currently, I am participating of Hiring Coders training program, provided by Gama Academy and sponsored by VTEX, AWS and many other companies! :office:
 
 I am also learning vanilla JavaScript with an Udemy course by the amazing teacher @iamshaunjp! :books:
 
@@ -13,7 +13,7 @@ I am also learning vanilla JavaScript with an Udemy course by the amazing teache
 
 Me chamo Amanda, sou psicóloga de formação com tenho mestrado em Psicobiologia :brain:, e estou estudando desenvolvimento web full stack como autodidata :computer:
 
-Atualmente, estou participando do programa de capacitação Hiring Coders, oferecido pela Gama Academy e patrocinado por empresas como a VTEX e AWS!
+Atualmente, estou participando do programa de capacitação Hiring Coders, oferecido pela Gama Academy e patrocinado por empresas como a VTEX e AWS! :office:
 
 Também estou aprendendo JavaScript puro através de um curso da Udemy ministrado pelo incrível professor @iamshaunjp! :books:
 
