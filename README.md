@@ -1,4 +1,4 @@
-### Hello there! 👋
+### Hello there! :octocat:
 
 I'm Amanda, a bachelor in Psychology with a MSc in Psychobiology :brain:, and I'm studying to become a self-taught full stack web developer :computer:
 
@@ -9,7 +9,7 @@ I am also learning vanilla JavaScript with an Udemy course by the amazing teache
 ----
 :brazil: 
 
-### Olá! 👋
+### Olá! :octocat:
 
 Me chamo Amanda, sou psicóloga de formação com tenho mestrado em Psicobiologia :brain:, e estou estudando desenvolvimento web full stack como autodidata :computer:
 
