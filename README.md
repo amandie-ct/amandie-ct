@@ -1,9 +1,28 @@
-### Hi there 👋
+### Hello there! 👋
+
+I'm Amanda, a bachelor in Psychology with a MSc in Psychobiology :brain:, and I'm studying to become a self-taught full stack web developer :computer:
+
+Currently, I am participating of Hiring Coders training program, provided by Gama Academy and sponsored by VTEX, AWS and many other companies!
+
+I am also learning vanilla JavaScript with an Udemy course by the amazing teacher @iamshaunjp! :books:
+
+----
+:brazil: 
+
+### Olá! 👋
+
+Me chamo Amanda, sou psicóloga de formação com tenho mestrado em Psicobiologia :brain:, e estou estudando desenvolvimento web full stack como autodidata :computer:
+
+Atualmente, estou participando do programa de capacitação Hiring Coders, oferecido pela Gama Academy e patrocinado por empresas como a VTEX e AWS!
+
+Também estou aprendendo JavaScript puro através de um curso da Udemy ministrado pelo incrível professor @iamshaunjp! :books:
 
 <!--
 **amandie-ct/amandie-ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+I'm Amanda, a bachelor in Psychology with a MSc in Psychobiology :brain:, and I'm pursuing a 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
