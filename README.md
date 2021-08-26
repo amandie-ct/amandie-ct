@@ -2,9 +2,8 @@
 
 I am Amanda, a bachelor in Psychology with a MSc in Psychobiology :brain:, and I'm studying to become a self-taught full stack web developer :computer:
 
-Currently, I am participating of Hiring Coders training program, provided by Gama Academy and sponsored by VTEX, AWS and many other companies! :office:
-
-I am also learning vanilla JavaScript with an Udemy course by the amazing teacher @iamshaunjp! :books:
+- 🔭 I’m currently working on a Pokedex made in React using Pokeapi
+- 🌱 I’m currently learning React, SASS and Node
 
 ----
 :brazil: 
@@ -16,16 +15,19 @@ Me chamo Amanda, sou psicóloga de formação com tenho mestrado em Psicobiologi
 Atualmente, estou participando do programa de capacitação Hiring Coders, oferecido pela Gama Academy e patrocinado por empresas como a VTEX e AWS! :office:
 
 Também estou aprendendo JavaScript puro através de um curso da Udemy ministrado pelo incrível professor @iamshaunjp! :books:
+<br>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">--
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">--
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">--
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/amandie-ct">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandie-ct&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandie-ct&layout=compact&langs_count=7&theme=dracula"/>
 </div>
