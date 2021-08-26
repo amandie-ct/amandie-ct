@@ -24,7 +24,12 @@ Também estou aprendendo JavaScript puro através de um curso da Udemy ministrad
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
-
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandie-ct&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandie-ct&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
 <!--
 **amandie-ct/amandie-ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
