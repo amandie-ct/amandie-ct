@@ -30,7 +30,9 @@ Também estou aprendendo JavaScript puro através de um curso da Udemy ministrad
   <a href="https://github.com/amandie-ct">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandie-ct&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandie-ct&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div><br>
+  
+    ![Snake animation](https://github.com/amandie-ct/amandie-ct/blob/output/github-contribution-grid-snake.svg)
   
 <!--
 **amandie-ct/amandie-ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
