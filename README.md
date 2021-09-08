@@ -32,7 +32,7 @@ Também estou aprendendo JavaScript puro através de um curso da Udemy ministrad
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandie-ct&layout=compact&langs_count=7&theme=dracula"/>
 </div><br>
   
-    ![Snake animation](https://github.com/amandie-ct/amandie-ct/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation]https://github.com/amandie-ct/amandie-ct/blob/output/github-contribution-grid-snake.svg
   
 <!--
 **amandie-ct/amandie-ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
