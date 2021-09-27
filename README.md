@@ -3,8 +3,8 @@
 I am Amanda, a bachelor in Psychology with a MSc in Psychobiology :brain:, and I'm studying to become a self-taught full stack web developer :computer:
 
 - 🔭 I’m currently working on an e-commerce app with React and JSON-Server
-- :herb: I’m currently learning React and React Testing Library
-- 🌱 I plan to learn Node, SASS, Jest, Atomic design and Clean code next
+- :herb: I’m currently learning React and Node
+- 🌱 I plan to learn TDD, SASS, Jest, Atomic design and Clean code next
 
 ----
 :brazil: 
@@ -14,8 +14,8 @@ I am Amanda, a bachelor in Psychology with a MSc in Psychobiology :brain:, and I
 Me chamo Amanda, sou psicóloga de formação com tenho mestrado em Psicobiologia :brain:, e estou estudando desenvolvimento web full stack como autodidata :computer:
 
 - 🔭 Atualmente estou desenvolvendo um aplicativo de e-commerce com React e JSON-Server
-- :herb: Estou aprendendo React e React Testing Library
-- 🌱 Estou planejando aprender Node, SASS, Jest, design atômico e código limpo em seguida
+- :herb: Estou aprendendo React e Node
+- 🌱 Estou planejando aprender TDD, SASS, Jest, design atômico e código limpo em seguida
 
 <br>
 
