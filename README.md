@@ -2,7 +2,7 @@
 
 I am Amanda, a bachelor in Psychology with an MSc in Psychobiology :brain:. I’ve been studying to transition into a technology career for the past year :computer:. 
 
-- 🔭 Right now, I am using React to develop a to-do app integrated within a calendar. I also plan to use MongoDB to store data and Node to build the server-side for this project
+- 🔭 Right now, I am using React to develop a to-do app integrated inside a calendar. I also plan to use MongoDB to store data and Node to build the server-side for this project
 - 🌱 I'm currently learning React, Node and Mongo
 - :herb: I am eager to learn new technologies, and constantly improve in code writing
 
