@@ -1,21 +1,21 @@
 ### Hello there! :octocat:
 
-I am Amanda, a bachelor in Psychology with a MSc in Psychobiology :brain:, and I'm studying to become a self-taught full stack web developer :computer:
+I am Amanda, a bachelor in Psychology with an MSc in Psychobiology :brain:. I’ve been studying to transition into a technology career for the past year :computer:. 
 
-- 🔭 I’m currently working on an e-commerce app with React and JSON-Server
-- :herb: I’m currently learning React and Node
-- 🌱 I plan to learn TDD, SASS, Jest, Atomic design and Clean code next
+- 🔭 Right now, I am using React to develop a to-do app integrated within a calendar. I also plan to use MongoDB to store data and Node to build the server-side for this project
+- :herb: I'm currently learning React, Node and Mongo
+- 🌱 I am eager to learn new technologies, and constantly improve in code writing
 
 ----
 :brazil: 
 
 ### Olá! :octocat:
 
-Me chamo Amanda, sou psicóloga de formação com tenho mestrado em Psicobiologia :brain:, e estou estudando desenvolvimento web full stack como autodidata :computer:
+Me chamo Amanda, sou psicóloga de formação com mestrado em Psicobiologia :brain:, e no último ano me dediquei a estudar desenvolvimento web para transicionar para uma carreira em tecnologia :computer:
 
-- 🔭 Atualmente estou desenvolvendo um aplicativo de e-commerce com React e JSON-Server
-- :herb: Estou aprendendo React e Node
-- 🌱 Estou planejando aprender TDD, SASS, Jest, design atômico e código limpo em seguida
+- 🔭 No momento, estou desenvolvendo um aplicativo de lista de tarefas integrado no calendário usando React, e pretendo usar MongoDB para armazenar os dados e Node para desenvolver o lado do servidor desse projeto
+- :herb: Estou entusiasmada pra aprender novas tecnologias e evoluir constantemente na habilidade de escrever código
+- 🌱 Estou aprendendo React, Node e MongoDB no momento
 
 <br>
 
