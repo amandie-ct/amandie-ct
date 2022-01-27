@@ -1,21 +1,14 @@
-### Hello there! :octocat:
+### Howdy! :octocat:
 
-I am Amanda, a bachelor in Psychology with an MSc in Psychobiology :brain:. I’ve been studying to transition into a technology career for the past year :computer:. 
-
-- 🔭 Right now, I am using React to develop a to-do app integrated inside a calendar. I also plan to use MongoDB to store data and Node to build the server-side for this project
-- 🌱 I'm currently learning React, Node and Mongo
-- :herb: I am eager to learn new technologies, and constantly improve in code writing
+My name is Amanda, I am a former Psychobiology scientist (MSc) clawing my way through the software development world. I've been studying to transition into a web developer career for the past year, and last semester I joined Estácio de Sá's programmer analyst college course. 
+My preferred branch is client-side, front end web development. I have experience with Javascript, React and CSS/SASS, and lately I'm venturing with Redux, Node and Typescript.
 
 ----
 :brazil: 
 
 ### Olá! :octocat:
 
-Me chamo Amanda, sou psicóloga de formação com mestrado em Psicobiologia :brain:, e no último ano me dediquei a estudar desenvolvimento web para transicionar para uma carreira em tecnologia :computer:
-
-- 🔭 No momento, estou desenvolvendo um aplicativo de lista de tarefas integrado no calendário usando React, e pretendo usar MongoDB para armazenar os dados e Node para desenvolver o lado do servidor desse projeto
-- 🌱 Estou aprendendo React, Node e MongoDB atualmente
-- :herb: Estou entusiasmada pra aprender novas tecnologias e evoluir constantemente na habilidade de escrever código
+Me chamo Amanda, sou uma ex-cientista (Mestre em Psicobiologia) adentrando o mundo do desenvolvimento de software. Estou estudando por conta própria para transicionar para uma carreira de desenvolvedora web há um ano, e no semestre passado iniciei o curso de tecnólogo em Análise e Desenvolvimento de Sistemas da Estácio de Sá. Escolhi o caminho do desenvolvimento client-side (front end). Tenho experiência com Javascript, React e CSS/SASS, e ultimamente estou me aventurando com Redux, Node e Typescript. 
 
 <br>
 
