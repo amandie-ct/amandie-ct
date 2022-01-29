@@ -1,7 +1,7 @@
 ### Howdy! :octocat:
 
 My name is Amanda, I am a former Psychobiology scientist (MSc) clawing my way through the software development world. I've been studying to transition into a web developer career for the past year, and last semester I joined Estácio de Sá's programmer analyst college course. 
-My preferred branch is client-side, front end web development. I have experience with Javascript, React and CSS/SASS, and lately I'm venturing with Redux, Node and Typescript.
+I chose client-side, front end web development as my path. I have experience with Javascript, React and CSS/SASS, and lately I'm venturing with Redux, Node and Typescript.
 
 ----
 :brazil: 
@@ -27,7 +27,6 @@ Me chamo Amanda, sou uma ex-cientista (Mestre em Psicobiologia) adentrando o mun
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandie-ct&layout=compact&langs_count=7&theme=dracula"/>
 </div><br>
   
-    ![Snake animation]https://github.com/amandie-ct/amandie-ct/blob/output/github-contribution-grid-snake.svg
   
 <!--
 **amandie-ct/amandie-ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
