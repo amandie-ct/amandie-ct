@@ -2,9 +2,9 @@
 
 My name is Amanda, I am a former Psychobiology scientist (MSc) clawing my way through the software development world. 
 I’ve been working as a Junior Web Developer at Hirix Software & Technology, and my daily duties include
-Translating Figma layouts into stylized client side web pages, utilizing Styled-components and Material UI
-Integrating frontend code (React.js) with the backend API, written in GraphQL (Apollo)
-Creating entities and their API resources using Node.js and MongoDB (Mongoose)
+- Translating Figma layouts into stylized client side web pages, utilizing Styled-components and Material UI
+- Integrating frontend code (React.js) with the backend API, written in GraphQL (Apollo)
+- Creating entities and their API resources using Node.js and MongoDB (Mongoose)
 
 🌱 I’m currently learning Redux and Jest
 
@@ -15,9 +15,9 @@ Creating entities and their API resources using Node.js and MongoDB (Mongoose)
 
 Me chamo Amanda, sou uma ex-cientista (Mestre em Psicobiologia) adentrando o mundo do desenvolvimento de software. 
 Trabalho como Desenvolvedora de Software Jr na Hirix Software & Technology, e minhas responsabilidades diárias incluem
-Transformar designs do Figma em layouts que serão renderizados no lado do cliente, utilizando Styled-components e Material UI
-Integrar o código frontend (React.js) com a API GraphQL (Apollo) do backend, escrita em Node.js
-Criar entidades e seus recursos de API utilizando Node e MongoDB (Mongoose)
+- Transformar designs do Figma em layouts que serão renderizados no lado do cliente, utilizando Styled-components e Material UI
+- Integrar o código frontend (React.js) com a API GraphQL (Apollo) do backend, escrita em Node.js
+- Criar entidades e seus recursos de API utilizando Node e MongoDB (Mongoose)
 
 🌱 Atualmente estou aprendendo Jest e Redux
 
