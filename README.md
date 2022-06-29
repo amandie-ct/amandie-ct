@@ -42,12 +42,7 @@ Trabalho como Desenvolvedora de Software Jr na Hirix Software & Technology, e mi
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div><br>
 
- <div>
-  <a href="https://github.com/amandie-ct">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandie-ct&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandie-ct&count_private=true&layout=compact&langs_count=7&theme=dracula&include_all_commits=true"/>
-</div><br>
-  
+
   
 <!--
 **amandie-ct/amandie-ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
