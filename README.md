@@ -46,7 +46,7 @@ Trabalho como Desenvolvedora de Software Jr na Hirix Software & Technology, e mi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandie-ct&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?amandie-ct" frameborder="0"></iframe>
+<!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?amandie-ct" frameborder="0"></iframe> -->
   
 <!--
 **amandie-ct/amandie-ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
