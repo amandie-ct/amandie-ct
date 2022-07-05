@@ -44,7 +44,7 @@ Trabalho como Desenvolvedora de Software Jr na Hirix Software & Technology, e mi
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amandie-ct&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandie-ct&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandie-ct&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--
 **amandie-ct/amandie-ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
