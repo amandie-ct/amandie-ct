@@ -42,7 +42,7 @@ Trabalho como Desenvolvedora de Software Jr na Hirix Software & Technology, e mi
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div><br>
 
-https://github-readme-streak-stats.herokuapp.com/?user=amandie-ct
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amandie-ct&theme=dark)](https://git.io/streak-stats)
   
 <!--
 **amandie-ct/amandie-ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
