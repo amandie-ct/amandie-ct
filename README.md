@@ -6,7 +6,7 @@ I’ve been working as a Junior Web Developer at Hirix Software & Technology, an
 - Integrating frontend code (React.js) with the backend API, written in GraphQL (Apollo)
 - Creating entities and their API resources using Node.js and MongoDB (Mongoose)
 
-🌱 I’m currently learning Redux and Jest
+🌱 I’m currently learning Jest/Vitest and Norigin Spatial Navigation (lib for SmartTV remote control tracking)
 
 ----
 :brazil: 
@@ -19,7 +19,7 @@ Trabalho como Desenvolvedora de Software Jr na Hirix Software & Technology, e mi
 - Integrar o código frontend (React.js) com a API GraphQL (Apollo) do backend, escrita em Node.js
 - Criar entidades e seus recursos de API utilizando Node e MongoDB (Mongoose)
 
-🌱 Atualmente estou aprendendo Jest e Redux
+🌱 Atualmente estou aprendendo Jest/Vitest e Norigin Spatial Navigation (lib para rastreamento de controle remoto em Smart TVs)
 
 <br>
 
