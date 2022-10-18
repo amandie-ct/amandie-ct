@@ -12,7 +12,7 @@ I am a Frontend Web Developer currently working at FreteBras, where we develop, 
 
 Sou uma Desenvolvedora Frontend atualmente trabalhando na FreteBras, onde nós desenvolvemos e mantemos uma plataforma online para conectar caminhoneiros e transportadoras. Para desenvolver o lado do cliente, nós utilizamos a arquitetura de micro frontends, e as tecnologias React, Typescript, RTL e Jest.
 
-🌱 Atualmente estou aprendendo React Testing Library and Jest
+🌱 Atualmente estou aprendendo React Testing Library e Jest
 
 <br>
 
