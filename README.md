@@ -1,25 +1,18 @@
 ### Howdy! :octocat:
 
-My name is Amanda, I am a former Psychobiology scientist (MSc) clawing my way through the software development world. 
-I’ve been working as a Junior Web Developer at Hirix Software & Technology, and my daily duties include
-- Translating Figma layouts into stylized client side web pages, utilizing Styled-components and Material UI
-- Integrating frontend code (React.js) with the backend API, written in GraphQL (Apollo)
-- Creating entities and their API resources using Node.js and MongoDB (Mongoose)
+Howdy!
+I am a Frontend Web Developer currently working at FreteBras, where we develop, maintain, and improve an online platform that aims to connect truck drivers to transportation companies. To develop the client side, we use micro frontend architecture, React, Typescript, RTL, and Jest. 
 
-🌱 I’m currently learning Jest/Vitest and Norigin Spatial Navigation (lib for SmartTV remote control tracking)
+🌱 I’m currently React Testing Library and Jest
 
 ----
 :brazil: 
 
 ### Olá! :octocat:
 
-Me chamo Amanda, sou uma ex-cientista (Mestre em Psicobiologia) adentrando o mundo do desenvolvimento de software. 
-Trabalho como Desenvolvedora de Software Jr na Hirix Software & Technology, e minhas responsabilidades diárias incluem
-- Transformar designs do Figma em layouts que serão renderizados no lado do cliente, utilizando Styled-components e Material UI
-- Integrar o código frontend (React.js) com a API GraphQL (Apollo) do backend, escrita em Node.js
-- Criar entidades e seus recursos de API utilizando Node e MongoDB (Mongoose)
+Sou uma Desenvolvedora Frontend atualmente trabalhando na FreteBras, onde nós desenvolvemos e mantemos uma plataforma online para conectar caminhoneiros e transportadoras. Para desenvolver o lado do cliente, nós utilizamos a arquitetura de micro frontends, e as tecnologias React, Typescript, RTL e Jest.
 
-🌱 Atualmente estou aprendendo Jest/Vitest e Norigin Spatial Navigation (lib para rastreamento de controle remoto em Smart TVs)
+🌱 Atualmente estou aprendendo React Testing Library and Jest
 
 <br>
 
