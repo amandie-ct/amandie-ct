@@ -3,7 +3,7 @@
 Howdy!
 I am a Frontend Web Developer currently working at FreteBras, where we develop, maintain, and improve an online platform that aims to connect truck drivers to transportation companies. To develop the client side, we use micro frontend architecture, React, Typescript, RTL, and Jest. 
 
-🌱 I’m currently React Testing Library and Jest
+🌱 I’m currently learning React Testing Library and Jest
 
 ----
 :brazil: 
