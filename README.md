@@ -1,18 +1,17 @@
-### Howdy! :octocat:
+### Hello! :octocat:
 
-Howdy!
-I am a Frontend Web Developer currently working at FreteBras, where we develop, maintain, and improve an online platform that aims to connect truck drivers to transportation companies. To develop the client side, we use micro frontend architecture, React, Typescript, RTL, and Jest. 
+I am Amanda, a Frontend Web Developer experienced in both service-oriented and product-oriented companies.
 
-🌱 I’m currently learning React Testing Library and Jest
+In my previous role, I contributed to the development and maintenance of a marketplace where around 900.000 freights are announced by 17.000 transportation companies and negotiated with more than 640.000 truck-drivers. For the client side, we used micro-frontend architecture to enable teams’ autonomy. We used design systems and technologies such as React, vanilla Javascript, Typescript, React Testing Library and Redux.
+
+In my prior position, I contributed to the development of an OTT (Over-The-Top) video streaming platform, working on both web and Smart TV applications. Our technology stack for the client side was React, Apollo Client (GraphQL) and Norigin Media’s framework for remote control integration.
+
 
 ----
 :brazil: 
 
 ### Olá! :octocat:
 
-Sou uma Desenvolvedora Frontend atualmente trabalhando na FreteBras, onde nós desenvolvemos e mantemos uma plataforma online para conectar caminhoneiros e transportadoras. Para desenvolver o lado do cliente, nós utilizamos a arquitetura de micro frontends, e as tecnologias React, Typescript, RTL e Jest.
-
-🌱 Atualmente estou aprendendo React Testing Library e Jest
 
 <br>
 
