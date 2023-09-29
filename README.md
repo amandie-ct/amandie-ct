@@ -12,14 +12,11 @@ In my prior position, I contributed to the development of an OTT (Over-The-Top) 
 
 ### Olá! :octocat:
 
-Olá!
-
 Me chamo Amanda, sou desenvolvedora Frontend com experiência em ambas empresas de produto e de serviços de software.
 
 Na minha função anterior, contribui para o desenvolvimento e manutenção de um marketplace onde cerca de 900.000 cargas são anunciadas mensalmente por 17.000 empresas de transporte e negociadas com mais de 640.000 motoristas de caminhão. No client side, utilizamos arquitetura de micro-frontends para permitir a autonomia das equipes, design stystems e tecnologias como React, Javascript puro, TypeScript, React Testing Library e Redux.
 
 Na empresa que trabalhei anteriormente, contribuí para o desenvolvimento de uma plataforma de streaming de vídeo Over-The-Top (OTT), em ambos aplicativos web e Smart TV. Nossas tecnologias no client side incluíam React, Apollo Client (GraphQL) e o framework desenvolvido pela Norogin Media para integração com controle remoto. 
-
 
 <br>
 
