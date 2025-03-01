@@ -1,22 +1,4 @@
-### Hello! :octocat:
-
-I am Amanda, a Frontend Web Developer experienced in both service-oriented and product-oriented companies.
-
-In my current role, I contribute to the development and maintenance of a marketplace where around 900.000 freights are announced by 17.000 transportation companies and negotiated with more than 640.000 truck-drivers. For the client side, we use micro-frontend architecture to enable teams’ autonomy. We use design systems and technologies such as React, vanilla Javascript, Typescript, React Testing Library and Redux.
-
-In my prior position, I contributed to the development of an OTT (Over-The-Top) video streaming platform, working on both web and Smart TV applications. Our technology stack for the client side was React, Apollo Client (GraphQL) and Norigin Media’s framework for remote control integration.
-
-
-----
-:brazil: 
-
-### Olá! :octocat:
-
-Me chamo Amanda, sou desenvolvedora Frontend com experiência em ambas empresas de produto e de serviços de software.
-
-No meu cargo atual, contribuo para o desenvolvimento e manutenção de um marketplace onde cerca de 900.000 cargas são anunciadas mensalmente por 17.000 empresas de transporte e negociadas com mais de 640.000 motoristas de caminhão. No client side, utilizamos arquitetura de micro-frontends para permitir a autonomia das equipes, design stystems e tecnologias como React, Javascript puro, TypeScript, React Testing Library e Redux.
-
-Na empresa que trabalhei anteriormente, contribuí para o desenvolvimento de uma plataforma de streaming de vídeo Over-The-Top (OTT), em ambos aplicativos web e Smart TV. Nossas tecnologias no client side incluíam React, Apollo Client (GraphQL) e o framework desenvolvido pela Norogin Media para integração com controle remoto. 
+Mid-level Frontend Software Engineer with 5 years of experience building web and mobile applications. I have worked extensively within the JavaScript ecosystem, utilizing TypeScript, React, React Native, Next.js, Redux, Apollo and Fastify. I also have experience in interacting with REST and GraphQL APIs, and delivering seamless user experiences across web and mobile platforms.
 
 <br>
 
