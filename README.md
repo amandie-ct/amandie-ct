@@ -1,4 +1,4 @@
-Mid-level Frontend Software Engineer with 5 years of experience building web and mobile applications. I have worked extensively within the JavaScript ecosystem, utilizing TypeScript, React, React Native, Next.js, Redux, Apollo and Fastify. I also have experience in interacting with REST and GraphQL APIs, and delivering seamless user experiences across web and mobile platforms.
+Frontend & Mobile Software Engineer with 5+ years of experience delivering production-grade web and mobile applications for digital banking, logistics, and OTT streaming platforms. Specializes in React, React Native, TypeScript, and scalable UI architectures. Experienced in cross-functional collaboration, API integrations, CI/CD, and regulatory-compliant financial systems. Adept at shipping high-quality features in fast-paced Agile environments and maintaining codebases used by large user bases (800k+ users).
 
 <br>
 
