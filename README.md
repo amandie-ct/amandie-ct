@@ -1,4 +1,4 @@
-Frontend & Mobile Software Engineer with 5+ years of experience delivering production-grade web and mobile applications for digital banking, logistics, and OTT streaming platforms. Specializes in React, React Native, TypeScript, and scalable UI architectures. Experienced in cross-functional collaboration, API integrations, CI/CD, and regulatory-compliant financial systems. Adept at shipping high-quality features in fast-paced Agile environments and maintaining codebases used by large user bases (800k+ users).
+Front-end software engineer with 5+ years of experience building web and mobile products in fast-paced startup environments, including fintechs, banks and a Brazilian unicorn marketplace. I lead workstreams end to end, from scoping and technical design to implementation, testing, and release, partnering closely with backend, product, design and QA teams.
 
 <br>
 
