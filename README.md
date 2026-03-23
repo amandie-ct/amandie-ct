@@ -1,4 +1,12 @@
-Front-end software engineer with 5+ years of experience building web and mobile products in fast-paced startup environments, including fintechs, banks and a Brazilian unicorn marketplace. I lead workstreams end to end, from scoping and technical design to implementation, testing, and release, partnering closely with backend, product, design and QA teams.
+👋🏽 Hello! I'm Amanda Toledo, a Web Developer and JavaScript specialist. With 6+ years of experience, I'm always seeking to innovate and impress. I’m experienced in working in fast-paced, high stakes environments.
+
+💻 I've acted in all areas of Web Development and have a special passion for the art of crafting user-friendly, scalable, and optimized interfaces. 
+
+🌐 I take pride in transforming complex challenges into elegant digital solutions, using technologies such as React, TypeScript, Node.js, React Native (mobile), and related tools: Jest, React Testing Library, Redux, Zustand, Tailwind CSS and NextJS. I have solid experience integrating REST and GraphQL APIs, and hands-on experience building features around AI/LLMs.
+
+💼 With a strategic vision, I strive to anticipate the needs of the team and the latest trends in the market. My effective communication and good mood are fundamental in my work.
+
+💕 I’m passionate about code, music, design, human behavior and nature.
 
 <br>
 
