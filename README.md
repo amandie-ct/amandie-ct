@@ -1,12 +1,12 @@
-🌻 Hello! I'm Amanda, a former scientist (MSc in Psychobiology) who transitioned into Software Engineering after my first contact with R programming during my master’s program.
+🌻  Hello! I'm Amanda, a former scientist (MSc in Psychobiology) who transitioned into Software Engineering after my first contact with R programming during my master’s program.
 
-💻 Over the past 6 years, I have built seamless user experiences with React and TypeScript, additionally working as a mobile developer using React Native in my current role, contributing to develop, maintain and ship products to both the Play Store and the App Store. I also have previous experience delivering end-to-end features with the MERN stack and GraphQL.
+💻  Over the past 6 years, I have built seamless user experiences with React and TypeScript, additionally working as a mobile developer using React Native in my current role, contributing to develop, maintain and ship products to both the Play Store and the App Store. I also have previous experience delivering end-to-end features with the MERN stack and GraphQL.
 
-🏦 My background includes both high-stakes, fast-paced environments such as fintechs, and more structured, risk-controlled, security-first organizations such as large banks. I also highlight my work at Fretebras, a Brazilian unicorn, where I contributed to a marketplace-style platform connecting truck drivers and transportation companies to negotiate freight.
+🏦  My background includes both high-stakes, fast-paced environments such as fintechs, and more structured, risk-controlled, security-first organizations such as large banks. I also highlight my work at Fretebras, a Brazilian unicorn, where I contributed to a marketplace-style platform connecting truck drivers and transportation companies to negotiate freight.
 
-⚙️ I have extensive experience with CSS tools such as Sass, Less, Tailwind, Styled Components, and Material UI, testing frameworks including Jest and React Testing Library, state management solutions such as Redux, Context API, and Zustand, and integrating REST and GraphQL APIs. 
+⚙️  I have extensive experience with CSS tools such as Sass, Less, Tailwind, Styled Components, and Material UI, testing frameworks including Jest and React Testing Library, state management solutions such as Redux, Context API, and Zustand, and integrating REST and GraphQL APIs. 
 
-🩵 In my free time, I enjoy learning about the world, studying philosophy and human behavior, reading classics, and spending time in nature. 📚
+🩵  In my free time, I enjoy learning about the world, studying philosophy and human behavior, reading classics, and spending time in nature.
 
 <br>
 
