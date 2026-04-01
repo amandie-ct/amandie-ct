@@ -1,12 +1,12 @@
-👋🏽 Hello! I'm Amanda Toledo, a Web Developer and JavaScript specialist. With 6+ years of experience, I'm always seeking to innovate and impress. I’m experienced in working in fast-paced, high stakes environments.
+🌻 Hello! I'm Amanda, a former scientist (MSc in Psychobiology) who transitioned into Software Engineering after my first contact with R programming during my master’s program.
 
-💻 I've acted in all areas of Web Development and have a special passion for the art of crafting user-friendly, scalable, and optimized interfaces. 
+💻 Over the past 6 years, I have built seamless user experiences with React and TypeScript, additionally working as a mobile developer using React Native in my current role, contributing to develop, maintain and ship products to both the Play Store and the App Store. I also have previous experience delivering end-to-end features with the MERN stack and GraphQL.
 
-🌐 I take pride in transforming complex challenges into elegant digital solutions, using technologies such as React, TypeScript, Node.js, React Native (mobile), and related tools: Jest, React Testing Library, Redux, Zustand, Tailwind CSS and NextJS. I have solid experience integrating REST and GraphQL APIs, and hands-on experience building features around AI/LLMs.
+🏦 My background includes both high-stakes, fast-paced environments such as fintechs, and more structured, risk-controlled, security-first organizations such as large banks. I also highlight my work at Fretebras, a Brazilian unicorn, where I contributed to a marketplace-style platform connecting truck drivers and transportation companies to negotiate freight.
 
-💼 With a strategic vision, I strive to anticipate the needs of the team and the latest trends in the market. My effective communication and good mood are fundamental in my work.
+⚙️ I have extensive experience with CSS tools such as Sass, Less, Tailwind, Styled Components, and Material UI, testing frameworks including Jest and React Testing Library, state management solutions such as Redux, Context API, and Zustand, and integrating REST and GraphQL APIs. 
 
-💕 I’m passionate about code, music, design, human behavior and nature.
+🩵 In my free time, I enjoy learning about the world, studying philosophy and human behavior, reading classics, and spending time in nature. 📚
 
 <br>
 
